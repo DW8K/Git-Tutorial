@@ -11,5 +11,5 @@ public static multiple(int a, int b) {
 }
 
 public static divide(int a, int b) {
-    return a / b;
+    return a / b; 
 }
