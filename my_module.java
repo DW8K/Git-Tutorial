@@ -1,3 +1,3 @@
-public static int(int a, int b) {
+public static add(int a, int b) {
     return a + b;
 }
