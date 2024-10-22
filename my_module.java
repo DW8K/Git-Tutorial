@@ -7,5 +7,5 @@ public static subtract(int a, int b) {
 }
 
 public static multiple(int a, int b) {
-    return a * b;
+    return a * b; // 주석
 }
